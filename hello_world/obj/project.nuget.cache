@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wmr5hsJ9oNQPb2NLO3b7FcbMLuaRYRrwS32SbERytJzPeWZstxW81R1X3uWuB3PtO+opWewpWX/SChDSGeCa2Q==",
+  "dgSpecHash": "gEiTuVBimEGorONVIPTk+4kDD8zZat0gqY6EuJXdu4N4fcVa35BGJQkw2ch4D6TnQRBwfE7ZGFdZMGPeU9G4qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sasha\\GitHub\\csharp_test\\hello_world\\hello_world.csproj",
+  "projectFilePath": "E:\\GitHub\\csharp_test\\hello_world\\hello_world.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

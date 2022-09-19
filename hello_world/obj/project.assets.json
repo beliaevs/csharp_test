@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sasha\\.nuget\\packages\\": {}
+    "C:\\Users\\abeliaev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sasha\\GitHub\\csharp_test\\hello_world\\hello_world.csproj",
+      "projectUniqueName": "E:\\GitHub\\csharp_test\\hello_world\\hello_world.csproj",
       "projectName": "hello_world",
-      "projectPath": "C:\\Users\\Sasha\\GitHub\\csharp_test\\hello_world\\hello_world.csproj",
-      "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sasha\\GitHub\\csharp_test\\hello_world\\obj\\",
+      "projectPath": "E:\\GitHub\\csharp_test\\hello_world\\hello_world.csproj",
+      "packagesPath": "C:\\Users\\abeliaev\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\csharp_test\\hello_world\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abeliaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
